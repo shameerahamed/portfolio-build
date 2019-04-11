@@ -1,0 +1,150 @@
+{
+    "data" : {
+        "frontends": [
+            {
+                "name" : "HTML",
+                "icon" : "html5.svg"
+            },
+            {
+                "name" : "CSS",
+                "icon" : "css3.png"
+            },
+            {
+                "name" : "Javascript",
+                "icon" : "javascript.png"
+            },
+            {
+                "name" : "jQuery",
+                "icon": "jquery.svg"
+            },
+            {
+                "name" : "AngularJs",
+                "icon" : "angular.svg"
+            },
+            {
+                "name" : "ReactJs",
+                "icon" : "react.svg"
+            },
+            {
+                "name" : "NodeJs",
+                "icon" : "nodejs.svg"
+            },
+            {
+                "name" : "Bootstrap",
+                "icon" : "bootstrap.png"
+            }          
+        ],
+        "databases" : [
+            {
+                "name" : "Oracle",
+                "icon" : "oracle.png"
+            },
+            {
+                "name" : "Mysql",
+                "icon" : "mysql.png"
+            },
+            {
+                "name" : "DB2",
+                "icon" : "db2.png"
+            },
+            {
+                "name" : "Mongo",
+                "icon" : "mongodb.png"
+            }
+        ],
+        "languages" : [
+            {
+                "name" : "Java",
+                "icon" : "java.svg"
+            },
+            {
+                "name" : "Spring",
+                "icon" : "spring.svg"
+            },
+            {
+                "name" : "Struts",
+                "icon" : "struts.svg"
+            },
+            {
+                "name" : "Hibernate",
+                "icon" : "hibernate.svg"
+            }
+        ] ,
+        "sources" : [
+            {
+                "name" : "GIT",
+                "icon" : "git.svg"
+            },
+            {
+                "name" : "TFS",
+                "icon" : "tfs.svg"
+            },
+            {
+                "name" : "SVN",
+                "icon" : "svn.svg"
+            },
+            {
+                "name" : "CVS",
+                "icon" : "cvs.jpg"
+            },
+            {
+                "name" : "Dimension",
+                "icon" : "dimension.png"
+            }
+        ],
+        "builds" : [
+            {
+                "name" : "Maven",
+                "icon" : "maven.png"
+            },
+            {
+                "name" : "Ant",
+                "icon" : "ant.png"
+            },
+            {
+                "name" : "Webpack",
+                "icon" : "webpack.png"
+            },
+            {
+                "name" : "Jenkins",
+                "icon" : "jenkins.png"
+            }
+        ],
+        "servers" : [
+            {
+                "name" : "IBM Websphere",
+                "icon" : "websphere.png"
+            },
+            {
+                "name" : "Oracle Weblogic",
+                "icon" : "weblogic.png"
+            },
+            {
+                "name" : "Apache Tomcat",
+                "icon" : "tomcat.jpg"
+            },
+            {
+                "name" : "Jboss",
+                "icon" : "jboss.png"
+            }
+        ],
+        "explorings" : [
+            {
+                "name" : "RaspberryPi",
+                "icon" : "pi.svg"
+            },
+            {
+                "name" : "Alexa",
+                "icon" : "alexa.svg"
+            },
+            {
+                "name" : "React Native",
+                "icon" : "react.svg"
+            },
+            {
+                "name" : "GraphQL",
+                "icon" : "graphql.svg"
+            }
+        ]
+    }
+}

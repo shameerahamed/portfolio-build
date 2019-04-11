@@ -1,0 +1,74 @@
+{
+    "data" : {
+        "educations" : [
+            {
+                "school" : "Anna University",
+                "year" : "2005 - 2009",
+                "major" : "Computer Science & Engineering",
+                "result" : "First class with Distinction"
+            },
+            {
+                "school" : "",
+                "year" : "2017",
+                "major" : "Oracle Certified Professional, Java SE 6 Programmer",
+                "result" : ""
+            }
+        ],
+        "experiences" : [
+            {
+                "company" : "Accenture Singapore",
+                "tenure" : "May 2016 - Present",
+                "role" : "Technical Consultant",
+                "project" : "Confidential",
+                "responsibilities" : ["Involved in Document technical solution proposals, development estimates, implementation plans, technical processes and procedures.",
+                                      "Involved in development of new features or change requests to the application.",
+                                      "Assisted in gathering, analysing and management of user requirements and provide consultation on their technical implementation.",
+                                      "Guided & Lead the offshore team in various phases of development. Provided valuable outputs on best coding practices by regular code review checks.",
+                                      "Provided L3 support to resolve production issues, engaged end-users, technical teams, external vendors, advised technical recommendation, explored alternative workaround to ensure operation continuity.",
+                                      "Involved in periodic deployment of application and patches to application servers in case of severe CVE."
+                                     ]
+            },
+            {
+                "company" : "Great Eastern Life Assurance",
+                "tenure": "Oct 2014 - Apr 2016",
+                "role" : "Technical Consultant",
+                "project": "SynerGE, Financial Project Management System (FPMS)",
+                "responsibilities" : [
+                                        "Involved in development to add new features to the application as per insurance compliance.",
+                                        "Involved in development of interfaces for Risk rating engine which will be used by underwriters for finalising the insurance proposal.",
+                                        "Provided L3 support to resolve production issues, engaged end-users, technical teams, external vendors, advised technical recommendation, explored alternative workaround to ensure operation continuity.",
+                                        "Involved in development & bug fixing of regional medical claims system (Singapore, Malaysia & Indonesia)."
+                                        ]
+            },
+            {
+                "company" : "AtoS India Pvt Ltd",
+                "tenure" : "Jan 2014 - Oct 2014",
+                "role" : "System Analyst",
+                "project" : "Eurodrive - Renault France",
+                "responsibilities" : [
+                                        "Key team player to migrate the Car Rental Application in Europe which was in PHP to Java technology.",
+                                        "Lead the team of 5 members in various phases of software development.",
+                                        "Involved in interacting with stakeholders to understand the requirements and documenting.",
+                                        "Involved in the application design review, code review and assisted the team in following the recommendations/guidelines.",
+                                        "Communicate with Project Managers, Systems Architects, System Analysts, DBA's and Developers to gather requirements to ensure traceability and comprehensive testable conditions are developed.",
+                                        "Responsible for identifying risks, scheduled impacts and inter-dependencies for each scheduled release."
+                    ]
+            },
+            {
+                "company" : "Kumaran Systems India Pvt Ltd",
+                "tenure" : "Feb 2010 - Jan 2014",
+                "role" : "Senior Programmer",
+                "project" : "Integrated Credit Processing (ICAP) for Canadian Imperial Bank of Commerce (CIBC)",
+                "responsibilities" : [
+                                    "Involved in development of Front-end validations and business logics in the application.",
+                                    "Performed impact analysis on critical problems, change requests and new functionality.",
+                                    "Involved in implementing solutions for performance tuning of the application’s dashboard and Java Memory Optimisation.",
+                                    "Preparation of implementation documents.",
+                                    "Requirement gathering on Retail Credits and Risk Scoring based on the various attributes.",
+                                    "Involved in the application design review, code review and assisted the team with recommendations/guidelines.",
+                                    "Communicate with Project Managers, Systems Architects, System Analysts, DBA's and Developers to gather requirements to ensure traceability and comprehensive testable conditions are developed."
+                ]
+            }
+        ]
+    }
+}

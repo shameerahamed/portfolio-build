@@ -1,0 +1,63 @@
+{
+    "data" : {
+        "developments" : [
+            {
+                "title" : "ShoppersDaily",
+                "icon" : "shoppersdaily.png",
+                "link" : "https://github.com/shameerahamed/shoppersdaily"
+            },
+            {
+                "title" : "ShoppersDaily-Detail",
+                "icon" : "shoppersdaily1.png",
+                "link" : "https://github.com/shameerahamed/shoppersdaily"
+            },
+            {
+                "title" : "TaskSheet",
+                "icon" : "tasksheet.png",
+                "link" : "https://github.com/shameerahamed/tasksheet"
+            },
+            {
+                "title" : "QuartzManager",
+                "icon" : "quartzman.png",
+                "link" : "https://github.com/shameerahamed/QuartzManager"
+            }
+        ],
+        "photographys" : [
+            {
+                "title" : "Bintan1",
+                "icon" : "bintan1.jpg",
+                "link" : "#"
+            },
+            {
+                "title" : "Bintan2",
+                "icon" : "bintan2.jpg",
+                "link" : "#"
+            },
+            {
+                "title" : "Bintan3",
+                "icon" : "bintan3.jpg",
+                "link" : "#"
+            },
+            {
+                "title" : "HarbourFront",
+                "icon" : "harbour1.jpg",
+                "link" : "#"
+            },
+            {
+                "title" : "HarbourFront2",
+                "icon" : "harbour2.jpg",
+                "link" : "#"
+            },
+            {
+                "title" : "City",
+                "icon" : "city.jpg",
+                "link" : "#"
+            },
+            {
+                "title" : "HDB Singapore",
+                "icon" : "hdb.jpg",
+                "link" : "#"
+            }
+        ]
+    }
+}

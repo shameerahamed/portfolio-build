@@ -1,0 +1,26 @@
+{
+    "data" : {
+        "name" : "Shameer Ahamed",
+        "role" : "Full Stack Developer",
+        "experience" : "9 Years",
+        "country" : "Singapore",
+        "email" : "shameerahamed.f@gmail.com",
+        "email2" : "",
+        "phone" : "(65) 82867010",
+        "socials" : [
+            {
+                "name" : "github",
+                "url" : "https://github.com/shameerahamed",
+                "icon": "icon-social-github"
+            },
+            {
+                "name" : "linkedin",
+                "url" : "https://sg.linkedin.com/in/shameerahamed",
+                "icon" : "icon-social-linkedin"
+            }
+        ],
+        "summary1" : "It was back in 1999, when I first got my hands dirty with coding. Since then my future was defined. I studied as a Computer Engineer and during my studies I mastered in web applications’ full-stack development. Nonetheless, I fell in love with the beauty of web. My first professional experience was back in 2010 and now i have under my belt 9 years, full of designing & development of enterprise web application.",
+        "summary2" : "Why? <br/>Just loving it. That’s what I’m passionate for. <br/>I really enjoy doing:",
+        "summary3" : ["Object-oriented programming / Functional programming and TDD with Java and Javascript.", "Creating responsive, user-friendly and visually enjoyable UIs.", "Proven abilities to handle pressure and to provide quick solutions & work-arounds for critical issues for business to continue seamlessly.", "Excellent analytical, decision-making, presentation and logical programming skills with insight to determine priorities, schedule work and meet critical deadlines.", "Worked in various projects adhering to phases of software development life cycle which includes System Study, Analysis, Design, Development, Testing and Implementation.", "Great interest in learning new technologies and tools.","Received Team Achievers’ Awards for exemplary contributions."]
+        }
+}
